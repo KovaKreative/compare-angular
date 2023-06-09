@@ -1,5 +1,12 @@
 # CompareAngular
 
+> A simple Angular landing page built as an experiment to compare to the process of building three identical web pages using Vue, React, and Angular.
+
+All three projects can be found here:
+[Compare Vue](https://github.com/KovaKreative/compare-vue)
+[Compare React](https://github.com/KovaKreative/compare-react)
+[Compare Angular](https://github.com/KovaKreative/compare-angular)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
 ## Development server
